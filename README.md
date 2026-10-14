@@ -4,7 +4,7 @@ A little about me:
 Even tho I'm mostly skilled in web development (more than 7 years), in my free time I enjoy challenging myself developing for other environments like backend, bash scripting or developing personal basic videogames 😅
 
 - 🔭 I’m currently working on @Wearecapicua
-- 🌱 I’m currently learning AWS for Backops
+- 🌱 I’m currently learning AWS for devops
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/angel-rada-78b503182/)
 
 
